@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_AngularAPI", "App_AngularAPI\App_AngularAPI.csproj", "{F50D9F6C-A603-4250-9850-342F4CA4710B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50D9F6C-A603-4250-9850-342F4CA4710B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50D9F6C-A603-4250-9850-342F4CA4710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50D9F6C-A603-4250-9850-342F4CA4710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50D9F6C-A603-4250-9850-342F4CA4710B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {528DF11D-BCFE-42CD-A840-2EB4A709BFF2}
+	EndGlobalSection
+EndGlobal
